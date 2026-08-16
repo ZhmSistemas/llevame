@@ -16,7 +16,7 @@ export default function HomeScreen() {
             llevame
           </ThemedText>
           <ThemedText type="subtitle" style={styles.tagline}>
-            te lleva a todos lados, si señor
+            te lleva a todos lados
           </ThemedText>
         </ThemedView>
       </SafeAreaView>
